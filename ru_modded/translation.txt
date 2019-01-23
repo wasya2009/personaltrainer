@@ -1,0 +1,11 @@
+в папке tl/russian добавлены файлы на перевод
+
+calendar_entries
+game_screens
+guide
+hot_buttons
+interactions_hotbutton
+script
+
+Добавлено 3 строчки
+game_locations
